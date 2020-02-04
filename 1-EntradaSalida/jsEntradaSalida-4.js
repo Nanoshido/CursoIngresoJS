@@ -4,11 +4,12 @@
 */
 function mostrar()
 {
- 
+ //declaro variable
 	var nombre;
+//asigno variable 
+	nombre = prompt("ingrese su nombre");
+//asigno variable el id
+	document.getElementById("elNombre").value = nombre;
 
-	prompt("poppy") = nombre;
-
-	alert(nombre);
 }
 
