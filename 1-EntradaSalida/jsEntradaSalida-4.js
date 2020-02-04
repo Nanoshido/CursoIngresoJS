@@ -4,6 +4,11 @@
 */
 function mostrar()
 {
+ 
+	var nombre;
 
+	prompt("poppy") = nombre;
+
+	alert(nombre);
 }
 
