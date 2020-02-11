@@ -10,11 +10,11 @@ if (edad >= 18) {
     alert ("adulto");
 }
 else{
-    if (edad < 13) {
+    if (edad <= 13) {
         alert("niño");
     }
     else{
-        alert("adolecente")
+        alert("adolecente");
     }
 }
 
